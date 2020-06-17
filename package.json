@@ -1,0 +1,19 @@
+{
+  "name": "rabbit-mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rabbit-mobile"
+  ],
+  "author": ".Soul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulkingking/rabbit-mobile/issues"
+  },
+  "homepage": "https://github.com/soulkingking/rabbit-mobile#readme"
+
+}
